@@ -110,11 +110,10 @@ This repository contains a collection of ethical hacking labs, performance asses
 ---
 
 ## 📄 Deliverables
-Each subdirectory contains:
-- Lab screenshots
-- Tools used and commands executed
-- Summary writeups and analysis
-- PDF/Word versions of lab reports (where applicable)
+This repository includes:
+- Summaries of tools used and lab objectives
+- Selected lab documentation and Markdown-based writeups
+- Screenshots and detailed reports available on request (if not published here)
 
 ---
 
