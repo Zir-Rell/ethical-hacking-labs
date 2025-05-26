@@ -113,8 +113,8 @@ This repository contains a collection of ethical hacking labs, performance asses
 This repository includes:
 - Summaries of tools used and lab objectives
 - Selected lab documentation and Markdown-based writeups
-- Screenshots and detailed reports available on request
-
+- PDF/Word versions of lab reports (where applicable)
+- Screenshots available on request
 ---
 
 ## 👤 Author
